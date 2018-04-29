@@ -1,1 +1,2 @@
-086faf9a-4b51-11e8-bb41-484d7ed58a73
+if __name__ == '__main__':
+	print("Hello world!")
